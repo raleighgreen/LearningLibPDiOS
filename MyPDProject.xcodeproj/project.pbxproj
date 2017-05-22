@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		455826D61ED35F86001B7E0C /* main.pd in Resources */ = {isa = PBXBuildFile; fileRef = 455826D51ED35F86001B7E0C /* main.pd */; };
 		45B6BB3B1ECF9633007756D5 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 45B6BB3A1ECF9633007756D5 /* main.m */; };
 		45B6BB3E1ECF9633007756D5 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 45B6BB3D1ECF9633007756D5 /* AppDelegate.m */; };
 		45B6BB411ECF9633007756D5 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 45B6BB401ECF9633007756D5 /* ViewController.m */; };
@@ -43,6 +44,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		455826D51ED35F86001B7E0C /* main.pd */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = main.pd; sourceTree = "<group>"; };
 		45B6BB361ECF9633007756D5 /* MyPDProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyPDProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		45B6BB3A1ECF9633007756D5 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		45B6BB3C1ECF9633007756D5 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -101,6 +103,7 @@
 				45B6BB451ECF9633007756D5 /* Assets.xcassets */,
 				45B6BB471ECF9633007756D5 /* LaunchScreen.storyboard */,
 				45B6BB4A1ECF9633007756D5 /* Info.plist */,
+				455826D51ED35F86001B7E0C /* main.pd */,
 				45B6BB391ECF9633007756D5 /* Supporting Files */,
 			);
 			path = MyPDProject;
@@ -217,6 +220,7 @@
 			files = (
 				45B6BB491ECF9633007756D5 /* LaunchScreen.storyboard in Resources */,
 				45B6BB461ECF9633007756D5 /* Assets.xcassets in Resources */,
+				455826D61ED35F86001B7E0C /* main.pd in Resources */,
 				45B6BB441ECF9633007756D5 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
